@@ -1,26 +1,14 @@
-# Advanced Weather Dashboard
+# 🌦️ Advanced Weather Dashboard
 
-A responsive weather dashboard built using HTML, CSS, JavaScript, and OpenWeather API.
+A responsive weather application that displays real-time weather data for any city using API integration. Built using frontend fundamentals (HTML5, CSS3, and Vanilla JavaScript).
 
-## Features
-- Search weather by city
-- Real-time temperature
-- Humidity
-- Wind speed
-- Error handling
-- Responsive UI
+## 🚀 Live Demo
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
-- OpenWeather API
+https://dynamic-florentine-dc6c33.netlify.app
 
-## How to Run
-1. Open the project in VS Code
-2. Add your API key in `script.js`
-3. Run with Live Server
-4. Search any city name
+## ✨ Features
 
-## Project Purpose
-This project fetches live weather data from an API and displays it dynamically using JavaScript.
+- **City Search:** Instantly retrieve up-to-date weather analytics by entering any valid city name worldwide.
+- **Real-Time Data:** Displays active atmospheric metrics including temperature conditions, humidity levels, and wind speed.
+- **Robust Error Handling:** Built-in validation alerts that elegantly notify the user if an invalid city name is entered or if an API failure occurs.
+- **Responsive UI:** Clean, centralized visual dashboard layout structured to resize seamlessly on computers, tablets, and phones.
